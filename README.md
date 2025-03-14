@@ -16,7 +16,7 @@ DB_USERNAME= nombre de usuario de psotgres
 DB_PASSWORD= contraseña de postgres
 PORT= 3000
 
-Las relaciones de entidades se encuentran a continuación:
+Las relaciones de entidades se encuentran en el archivo Entidades.png
 
 
 
