@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d935dadc-7838-4a8b-abe5-d24f42ff2a11)# PruebaAxede
+# PruebaAxede
 
 
 Se desarolló en Typescript, unicamente el back con NestJs
